@@ -44,11 +44,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tanstack/tanstack-original.svg" height="40" alt="Tanstack (React Query) logo" />
-  <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="40" alt="Framer Motion logo" />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
